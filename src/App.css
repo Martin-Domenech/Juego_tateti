@@ -17,7 +17,6 @@
 .turnos{
   display: grid;
   grid-template-columns: 1fr 1fr ;
-  grid-template-rows: 1fr 1fr ;
   gap: 30px;
 }
 .winner {
@@ -54,6 +53,7 @@
 }
 
 .btn-reset{
+  margin-top: 50px;
   width: 200px;
   height: 3rem;
   background-color: #111;

@@ -77,7 +77,7 @@ function App() {
         })
       }
       </section>
-      <h3 className='text-turnos'>TURNOS</h3>
+        <h3 className='text-turnos'>TURNOS</h3>
       <section className='turnos'>
         <Cuadrado 
         seleccionado = {turno === TURNS.X}>
