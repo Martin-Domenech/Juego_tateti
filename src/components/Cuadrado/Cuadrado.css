@@ -6,11 +6,11 @@
     margin: 0 auto;
 }
 .celda.seleccionada{
-    background-color: blue;
+    background-color: rgb(49, 0, 0);
     color: white;
 }
 .celda.seleccionada:hover{
-    background-color: blue;
+    background-color: rgb(49, 0, 0);
     color: white;
 }
 

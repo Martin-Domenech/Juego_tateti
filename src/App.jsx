@@ -3,8 +3,8 @@ import {Cuadrado} from './components/Cuadrado/Cuadrado.jsx'
 import { useState } from 'react'
 
 const TURNS = {
-  X : 'x',
-  O : 'o'
+  X : '❌',
+  O : '⭕'
 }
 const JUEGOS_GANADORES = [
   [0, 1, 2],
